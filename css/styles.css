@@ -9,7 +9,7 @@
 	--width-desktop: 1440px;
 	--clr-primary-soft-blue: hsl(215, 51%, 70%);
 	--clr-primary-cyan: hsl(178, 100%, 50%);
-	--clr-neutral-main-bg: hsl(217, 54%, 11%);
+	--clr-neutral-main-bg: hsl(217, 54%, 11%);1543
 	--clr-neutral-card-bg: hsl(216, 50%, 16%);
 	--clr-neutral-line: hsl(215, 32%, 27%);
 	--clr-neutral-white: hsl(0, 0%, 100%);
@@ -57,9 +57,13 @@ h1 a {
 	text-decoration: none;
 	color: var(--clr-neutral-white);
 }
+.hover {
+    transition: 0.3s ease;
+}
 
 .hover:hover {
-	color: var(--clr-primary-cyan);
+    color: var(--clr-primary-cyan);
+    transition: 0.3s ease;
 }
 
 h3 {
@@ -142,8 +146,10 @@ p {
     cursor: pointer;
     background: hsla(178, 100%, 50%, 0.5);
     border-radius: 1em;
+    transition: 0.3s ease;
 }
 .overlay:hover {
+    transition: 0.3s ease;
 	opacity: 1;
 }
 
