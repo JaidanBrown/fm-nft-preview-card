@@ -133,3 +133,13 @@ p {
 	font-weight: var(--font-semi-bold);
 	color: var(--clr-neutral-white);
 }
+
+.attribution {
+	color: var(--clr-primary-soft-blue);
+	margin-top: 10px;
+}
+
+.attribution a {
+	text-decoration: none;
+	color: var(--clr-neutral-white);
+}
