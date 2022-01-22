@@ -1,0 +1,27 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+:root {
+	--width-mobile: 375px;
+	--width-desktop: 1440px;
+	--clr-primary-soft-blue: hsl(215, 51%, 70%);
+	--clr-primary-cyan: hsl(178, 100%, 50%);
+	--clr-neutral-main-bg: hsl(217, 54%, 11%);
+	--clr-neutral-card-bg: hsl(216, 50%, 16%);
+	--clr-neutral-line: hsl(215, 32%, 27%);
+	--clr-neutral-white: hsl(0, 0%, 100%);
+	--font-size-paragraph: 18px;
+	--font: 'Outfit', sans-serif;
+	--font-light: 300;
+	--font-regular: 400;
+	--font-semi-bold: 600;
+}
