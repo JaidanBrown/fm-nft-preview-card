@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/JaidanBrown/fm-nft-preview-card/)
-- Live Site URL: [Live Site URL](https://jaidanbrown.github.io/fm-nft-preview-card/)
+- [Solution URL](https://github.com/JaidanBrown/fm-nft-preview-card/)
+- [Live Site URL](https://jaidanbrown.github.io/fm-nft-preview-card/)
 
 ## My process
 
@@ -46,6 +46,5 @@ This was a nice and easy project that I decided to complete, just to polish up m
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Jaidanbrown.dev](https://www.jaidanbrown.dev)
+- Frontend Mentor - [@JaidanBrown](https://www.frontendmentor.io/profile/JaidanBrown)
